@@ -71,3 +71,33 @@
     .container__titulo-negrito{
         font-weight: 700;
     }
+
+    .opcoes {
+        display: flex;
+    }
+
+    .opcoes__item {
+        text-transform: uppercase;
+    }
+
+    .opcoes__link {
+        text-decoration: nome;
+    }
+
+    .container__imagem-transparente {
+        display: nome;
+    }
+
+    .cabecalho__menu-hamburguer {
+        display: nome;
+    }
+    .opcoes__botao:checked~.lista-menu{
+    display:block;
+    width: auto;
+    }
+
+    .opcoes__botoes{
+        display: nome;
+    }
+}
+}
